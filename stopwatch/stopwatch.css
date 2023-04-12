@@ -1,0 +1,30 @@
+body{
+    background: rgb(202, 190, 168);
+    height: 100%;
+    text-align: center;
+}
+.all{
+    width: 500px;
+    margin: 50px auto;
+    color: white;
+    text-align: center;
+}
+h1{
+    color: #c43e3e;
+    font-weight: 100;
+    text-transform: uppercase;
+    
+}
+button{
+    background: rgb(10, 7, 88);
+    color: rgb(24, 196, 104);
+    border: solid 2px white;
+    margin: 10px;
+    cursor:pointer;
+    outline: none;
+    width: 200px;
+    text-decoration: none;
+}
+#seconds, #tens{
+    font-size:2em;}
+  
